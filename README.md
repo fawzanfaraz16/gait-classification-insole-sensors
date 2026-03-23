@@ -160,4 +160,3 @@ The original dataset is not included in this repository. To reproduce training a
 ## Academic Use
 
 This project was developed for academic purposes. Please respect any dataset-specific usage restrictions if reusing or adapting this work.
-```
